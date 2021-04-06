@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently exploring Machine Learning
-- 💬 Ask me about Data Science
+- 💬 Oh! And I love playing with data :grin: 
 <!--
 **AryaVinod/AryaVinod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
